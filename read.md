@@ -37,17 +37,22 @@ Multi-server monitoring
 Alerting and notifications
 User activity monitoring
 Additional system health checks
+
 Technology Stack
 Backend
 Python
 Flask
 Gunicorn
+
 Linux Services
+
 systemd
 SELinux
 Nginx
+
 Operating System
-Red Hat Enterprise Linux (RHEL)
+CentOS Linux
+
 Deployment Architecture
 Browser
    |
