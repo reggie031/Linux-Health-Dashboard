@@ -20,13 +20,13 @@ def get_stats():
         "uptime_hours": round(uptime_seconds / 3600, 2)
     }
 
-#import subprocess
+import subprocess
 
-#status = subprocess.run(
- #   ["systemctl", "is-active", "--quiet", "sshd"],
-  #  capture_output=True,
-   # text=True
-#)
+status = subprocess.run(
+    ["systemctl", "is-active", "--quiet", "sshd"],
+    capture_output=True,
+    text=True
+)
 
 
 
