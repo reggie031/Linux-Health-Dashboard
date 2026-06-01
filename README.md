@@ -1,4 +1,6 @@
 Overview
+<img width="1673" height="982" alt="Screenshot 2026-06-01 at 4 09 00 PM" src="https://github.com/user-attachments/assets/ea42c042-618f-4445-8c89-717632f5b2da" />
+<img width="1840" height="930" alt="Screenshot 2026-06-01 at 4 21 10 PM" src="https://github.com/user-attachments/assets/af4d423d-3d38-4852-b7b6-55dca37bfe0e" />
 
 This project is a Flask-based Linux system monitoring dashboard built to learn Python web development and gain hands-on experience with how applications are deployed and managed in Linux environments.
 
